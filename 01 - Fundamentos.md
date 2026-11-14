@@ -228,7 +228,6 @@ conn.close()
     <meta charset="UTF-8">
     <title>Blog</title>
 </head>
-...
-```
+
 
 
