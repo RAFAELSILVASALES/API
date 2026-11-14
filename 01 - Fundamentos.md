@@ -1,7 +1,6 @@
 
 ## Criando um server com socket
 
-Da mesma maneira que criamos um client com socket podemos também abrir um socket do lado servidor
 
 `server.py`
 ```python
@@ -29,7 +28,7 @@ python server.py
 ```
 
 
-Agora em outro terminal podemos rodar nosso client para se conectar a este server:
+
 
 
 `http_client.py`
