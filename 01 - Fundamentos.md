@@ -31,7 +31,7 @@ python server.py
 
 
 
-`http_client.py`
+
 ```python
 import socket
 
@@ -49,5 +49,4 @@ while True:
 client.close()
 ```
 ```
-python http_client.py
-```
+
